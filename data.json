@@ -1,0 +1,7 @@
+{
+    "external_customers": [
+        {"id": "1", "name": "Will Smith", "email": "willsmith@gmail.com", "age": 53},
+        {"id": "2", "name": "Will Smith2", "email": "willsmith2@gmail.com", "age": 52},
+        {"id": "3", "name": "Will Smith3", "email": "willsmith3@gmail.com", "age": 51}
+    ]
+}
