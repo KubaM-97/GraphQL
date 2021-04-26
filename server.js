@@ -39,3 +39,30 @@ app.listen(4000)
 //       name
 //     }
 // }
+
+// ADDS 1 CUSTOMER
+//  mutation{
+//      addCustomer(name: "Will Smith 4", email: "willsmith4@gmail.com", age: 50){
+//         id,
+//         name,
+//         age
+//       }
+//  }
+
+// DELETES 1 CUSTOMER
+// mutation{
+//     deleteCustomer(id: "3"){
+//       id,
+//       name,
+//       age
+//     }
+// }
+
+// EDITS 1 CUSTOMER
+//  mutation{
+//      editCustomer(id: "2", age: 72){
+//          id,
+//          name,
+//          age
+//      }
+//  }
