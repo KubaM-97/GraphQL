@@ -2,21 +2,27 @@
   "external_customers": [
     {
       "id": "1",
-      "name": "Will Smith",
-      "email": "willsmith@gmail.com",
-      "age": 72
+      "name": "Will Smith 1",
+      "email": "willsmith1@gmail.com",
+      "age": 51
     },
     {
       "id": "2",
       "name": "Will Smith 2",
       "email": "willsmith2@gmail.com",
-      "age": 72
-    },
+      "age": 52
+    }, 
     {
+      "id": "3", 
+      "name": "Will Smith 3", 
+      "email": "willsmith3@gmail.com", 
+      "age": 53
+    }
+    {
+      "id": "Itt9v-F",
       "name": "Will Smith 4",
       "email": "willsmith4@gmail.com",
-      "age": 50,
-      "id": "Itt9v-F"
+      "age": 54
     }
   ]
 }

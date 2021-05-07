@@ -71,6 +71,7 @@ const RootQuery = new GraphQLObjectType({
                 .then(res => res.data)
             }
         }
+        
     }
 
 })
@@ -119,6 +120,7 @@ const mutation = new GraphQLObjectType({
         }
     }
 })
+
 module.exports = new GraphQLSchema({
     query: RootQuery,
     mutation: mutation

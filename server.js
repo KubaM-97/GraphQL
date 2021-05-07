@@ -3,6 +3,7 @@ const { graphqlHTTP } = require('express-graphql')
 const schema = require('./schema.js')
 
 const app = express();
+
 app.use('/graphql', graphqlHTTP({
     schema: schema,
     graphiql: true
@@ -10,7 +11,9 @@ app.use('/graphql', graphqlHTTP({
 
 app.listen(4000)
 
-//localhost:4000/graphql
+
+
+// localhost:4000/graphql
 
 // RETURNS ONLY 1 CUSTOMER
 // {
