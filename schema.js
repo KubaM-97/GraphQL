@@ -23,7 +23,7 @@ const CustomerType = new GraphQLObjectType({
         id: { type: GraphQLString },
         name: { type: GraphQLString },
         email: { type: GraphQLString },
-        age: { type: GraphQLInt },
+        age: { type: GraphQLInt }
     })
 })
 

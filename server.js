@@ -22,7 +22,7 @@ app.listen(4000)
 //     }
 // }
 
-// RETURNS EVERY 3 CUSTOMERS
+// RETURNS ALL 3 CUSTOMERS
 // {
 //     customers{
 //       name
@@ -36,7 +36,7 @@ app.listen(4000)
 //     }
 // }
 
-// RETURNS EVERY 3 EXTERNAL CUSTOMERS
+// RETURNS ALL 3 EXTERNAL CUSTOMERS
 // {
 //     external_customers{
 //       name
